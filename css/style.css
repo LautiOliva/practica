@@ -1,0 +1,67 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+
+body{
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+}
+
+
+header{
+    background-color: rgb(7, 7, 138);
+}
+
+
+header{
+    padding: 10px;
+    color: white;
+}
+
+nav a{
+    color: white;
+    text-decoration: none;
+}
+
+.hero{
+    background-image: url(../img/pexels-cottonbro-5483071.jpg);
+    background-position: center;
+    background-size: cover;
+    background-repeat: no-repeat;
+    height: 80pv;
+    padding: 100px 0;
+    text-align: center;
+}
+
+.hero h2{
+    color: white;
+    background-color: rgba(0,0,0,0.5);
+    width: 400px;
+    height: 40px;
+    border-radius: 10px;
+    padding-top: 5px;
+}
+
+.informacion{
+    background-color: #f8fafc;
+}
+
+.informacion div{
+    background-color: gray;
+    border-radius: 10px;
+    margin: 50px;
+    padding: 30px;
+}
+
+
+footer{
+    background-color: rgb(7, 7, 138)
+    
+}
+
+footer p{
+    color: white;
+    text-align: center;
+    height: 100px;
+    padding-top: 20px;
+}
