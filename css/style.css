@@ -40,20 +40,33 @@ nav a{
     height: 40px;
     border-radius: 10px;
     padding-top: 5px;
+    margin-left: 600px;
+}
+main{
+    background-color: #f8fafc;
+
 }
 
 .informacion{
-    background-color: #f8fafc;
+   padding: 30px;
 }
 
-.informacion div{
-    background-color: gray;
+div{
+    background-color: white;
     border-radius: 10px;
-    margin: 50px;
+    margin: 10 0 10 50px;
     padding: 30px;
+    width: 700px;
+    margin: 0 0 20px 400px;
 }
 
+h3{
+    color: rgb(7, 7, 138);
+}
 
+.informacion p{
+    font-size: 15px;
+}
 footer{
     background-color: rgb(7, 7, 138)
     
@@ -62,6 +75,6 @@ footer{
 footer p{
     color: white;
     text-align: center;
-    height: 100px;
+    height: 50px;
     padding-top: 20px;
 }
